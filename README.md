@@ -19,3 +19,9 @@ Implement all TODOs inside WebSocketChatServer follow each method description.
 ### Run the application with command
 mvn build; mvn spring-boot:run
 
+### Final Results
+Login Screen
+![screenshot](login.png)
+
+Inside the chat Room
+![screenshot](chatRoom.png)
